@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaminUlkasemi
+- 👋 Hi, I’m @Sazin Reshed Samin
 - 👀 I’m interested in Design Verification
 - 🌱 I’m currently learning Systemverilog
 - 💞️ I’m looking to collaborate on ...
